@@ -1,0 +1,70 @@
+.bai1{
+    width: 100%;
+    height: 500px;
+    background: #C4E4FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bai1-container{
+    width: 400px;
+    height: fit-content;
+    background: rgb(146, 143, 198);
+    background: linear-gradient(115deg, rgba(2,0,36,1) 0%, rgb(109, 173, 185) 0%, rgb(207, 190, 154) 100%, rgba(60, 86, 65, 0.919) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px;
+    border-radius: 10px;
+}
+.bai1-form i {
+    position: absolute;
+}
+.bai1-form >i{
+    padding: 17px;
+    min-width: 40px;
+}
+.bai1-input{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.bai1-2button{
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+}
+.bai1-button{
+margin: 10px;
+}
+.bai2{
+    width: 100%;
+    height: fit-content;
+    background-color: #BED7DC;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: row ;
+}
+.hours{
+    font-size: 100px;
+}
+
+.bai3-form{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+.danh-gia{
+    margin: 20p;
+}
+.line{
+    width: 25%;
+    height: 2px;
+    background-color: #496989;
+}
+.comment-section{
+    margin: 10px;
+}
